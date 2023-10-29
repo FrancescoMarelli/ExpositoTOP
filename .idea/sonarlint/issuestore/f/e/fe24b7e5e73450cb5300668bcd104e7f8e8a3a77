@@ -1,0 +1,79 @@
+
+t
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(•£şÑùÿÿÿÿ
+o
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(âåò
+o
+java:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(óì›¡
+t
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(’”ìÎıÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä¦˜
+p
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬…
+u
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï€ºóüÿÿÿÿ
+p
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßºî«
+K
+java:S1066¡"/Merge this if statement with the enclosing one.(­¿åéÿÿÿÿÿ
+y
+java:S1319P"cThe type of "rcl" should be an interface such as "List" rather than the implementation "ArrayList".(“–»ç
+y
+java:S1319a"cThe type of "rcl" should be an interface such as "List" rather than the implementation "ArrayList".(Şªé
+…
+java:S1319Ç"nThe type of "departureTimes" should be an interface such as "List" rather than the implementation "ArrayList".(ˆû°µ
+Œ
+java:S1319æ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Öæ–³ÿÿÿÿÿ
+…
+java:S1319æ"iThe type of "customers" should be an interface such as "List" rather than the implementation "ArrayList".(Öæ–³ÿÿÿÿÿ
+Š
+java:S1319æ"nThe type of "departureTimes" should be an interface such as "List" rather than the implementation "ArrayList".(Öæ–³ÿÿÿÿÿ
+D
+java:S1604‡"(Make this anonymous inner class a lambda(·³×€ùÿÿÿÿ
+D
+java:S1604¾"(Make this anonymous inner class a lambda(·³×€ùÿÿÿÿ
+y
+java:S1488L"cImmediately return this expression instead of assigning it to the temporary variable "posSelected".(”Ø×¶
+s
+java:S1104	"XMake NO_EVALUATED a static final constant or non-public and provide accessors if needed.(ôÆÙ‘ıÿÿÿÿ
+M
+java:S1444	"2Make this "public static NO_EVALUATED" field final(ôÆÙ‘ıÿÿÿÿ
+r
+java:S3008	"WRename this field "NO_EVALUATED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÆÙ‘ıÿÿÿÿ
+h	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ûä˜úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Óú§
+V	java:S125"<This block of commented-out lines of code should be removed.(ÍŒªéøÿÿÿÿ
+@	java:S1062"+Replace this use of System.out by a logger.(ï‹ª
+V	java:S1253"<This block of commented-out lines of code should be removed.(šş¡ìüÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(µÌÇûÿÿÿÿ
+@	java:S106B"+Replace this use of System.out by a logger.(Á—¶Û
+E	java:S106C"+Replace this use of System.out by a logger.(ª³Õ…ıÿÿÿÿ
+@
+java:S1197H"*Move the array designators [] to the type.(åç—Ô
+T
+java:S1155n">Use isEmpty() to check whether the collection is empty or not.(»ĞÜì
+h
+java:S3776v"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ıàˆ‹
+W
+java:S1854";Remove this useless assignment to local variable "maxTRCL".(²ÏĞ”ùÿÿÿÿ
+X
+java:S1854²"<Remove this useless assignment to local variable "newDepot".(ÏÇ¼õúÿÿÿÿ
+I
+java:S1481²"-Remove this unused "newDepot" local variable.(ÏÇ¼õúÿÿÿÿ
+7
+java:S1659Ñ"!Declare "suc" on a separate line.(äößB
+n
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 95 to the 15 allowed.(Öæ–³ÿÿÿÿÿ
+^
+java:S1854ò"GRemove this useless assignment to local variable "validFinalInsertion".(å›ß¼
+^
+java:S1854²"GRemove this useless assignment to local variable "validFinalInsertion".(å›ß¼
+8
+java:S1659ô"!Declare "suc" on a separate line.(³Â†¯
+>
+java:S1659""Declare "suc2" on a separate line.(ü¼§éúÿÿÿÿ
+>
+java:S1125 "'Remove the unnecessary boolean literal.(œ©ç—
+â
+java:S6541æ"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 75 to 64, Complexity from 23 to 14, Nesting Level from 9 to 2, Number of Variables from 20 to 6.(Öæ–³ÿÿÿÿÿ

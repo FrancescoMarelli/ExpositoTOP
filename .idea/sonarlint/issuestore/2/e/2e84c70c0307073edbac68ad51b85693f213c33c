@@ -1,0 +1,34 @@
+
+HWeb:TableWithoutCaptionCheck" Add a description to this table.(¶è×Å
+:	Web:S5256"%Add "<th>" headers to this "<table>".(¶è×Å
+D	Web:S1827"/Remove this deprecated "cellspacing" attribute.(¶è×Å
+D	Web:S1827"/Remove this deprecated "cellpadding" attribute.(¶è×Å
+FWeb:ImgWithoutAltCheckW"%Add an "alt" attribute to this image.(Õğ·b
+LWeb:ImgWithoutAltCheckX"%Add an "alt" attribute to this image.(”è€¢ıÿÿÿÿ
+LWeb:ImgWithoutAltCheckY"%Add an "alt" attribute to this image.(ÚÇ†•üÿÿÿÿ
+GWeb:ImgWithoutAltCheckZ"%Add an "alt" attribute to this image.(ëÑº†
+LWeb:ImgWithoutAltCheck["%Add an "alt" attribute to this image.(ßµ„àúÿÿÿÿ
+SWeb:UnsupportedTagsInHtml5Check]"(Remove this deprecated "center" element.(å×Ğ 
+FWeb:ImgWithoutAltCheckc"%Add an "alt" attribute to this image.(Õğ·b
+LWeb:ImgWithoutAltCheckd"%Add an "alt" attribute to this image.(”è€¢ıÿÿÿÿ
+LWeb:ImgWithoutAltChecke"%Add an "alt" attribute to this image.(ÚÇ†•üÿÿÿÿ
+GWeb:ImgWithoutAltCheckf"%Add an "alt" attribute to this image.(ëÑº†
+LWeb:ImgWithoutAltCheckg"%Add an "alt" attribute to this image.(ßµ„àúÿÿÿÿ
+SWeb:UnsupportedTagsInHtml5Checki"(Remove this deprecated "center" element.(å×Ğ 
+MWeb:TableWithoutCaptionCheckj" Add a description to this table.(”¬…Ñûÿÿÿÿ
+?	Web:S5256j"%Add "<th>" headers to this "<table>".(”¬…Ñûÿÿÿÿ
+C	Web:S1827m")Remove this deprecated "align" attribute.(ÀœÇİÿÿÿÿÿ
+D	Web:S1827m"*Remove this deprecated "valign" attribute.(ÀœÇİÿÿÿÿÿ
+D	Web:S1827n"*Remove this deprecated "valign" attribute.(ğÀ„±ÿÿÿÿÿ
+C	Web:S1827p")Remove this deprecated "align" attribute.(ß“…ºúÿÿÿÿ
+D	Web:S1827p"*Remove this deprecated "valign" attribute.(ß“…ºúÿÿÿÿ
+D	Web:S1827q"*Remove this deprecated "valign" attribute.(˜°¶€ùÿÿÿÿ
+C	Web:S1827s")Remove this deprecated "align" attribute.(õ±¨çùÿÿÿÿ
+D	Web:S1827s"*Remove this deprecated "valign" attribute.(õ±¨çùÿÿÿÿ
+D	Web:S1827t"*Remove this deprecated "valign" attribute.(ŞƒğÕÿÿÿÿÿ
+>	Web:S1827v")Remove this deprecated "align" attribute.(¹İŸ¹
+?	Web:S1827v"*Remove this deprecated "valign" attribute.(¹İŸ¹
+?	Web:S1827w"*Remove this deprecated "valign" attribute.(ìôî
+C	Web:S1827y")Remove this deprecated "align" attribute.(ŞÛò˜ıÿÿÿÿ
+D	Web:S1827y"*Remove this deprecated "valign" attribute.(ŞÛò˜ıÿÿÿÿ
+D	Web:S1827z"*Remove this deprecated "valign" attribute.(ˆšëÚüÿÿÿÿ
