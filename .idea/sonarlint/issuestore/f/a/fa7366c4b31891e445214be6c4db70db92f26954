@@ -6,3 +6,8 @@ D	Web:S1827"/Remove this deprecated "cellpadding" attribute.(¶è×Å
 GWeb:ImgWithoutAltCheckT"%Add an "alt" attribute to this image.(„žõ•
 LWeb:ImgWithoutAltCheckU"%Add an "alt" attribute to this image.(¾¥žÀüÿÿÿÿ
 GWeb:ImgWithoutAltCheckV"%Add an "alt" attribute to this image.(ÞÉ¾Þ
+TWeb:TableWithoutCaptionCheckY" Add a description to this table.(”¬…Ñûÿÿÿÿ8µÌ•Ý·1
+F	Web:S5256Y"%Add "<th>" headers to this "<table>".(”¬…Ñûÿÿÿÿ8µÌ•Ý·1
+E	Web:S1827\")Remove this deprecated "align" attribute.(×¤¶Ÿ8µÌ•Ý·1
+F	Web:S1827\"*Remove this deprecated "valign" attribute.(×¤¶Ÿ8µÌ•Ý·1
+F	Web:S1827\"*Remove this deprecated "valign" attribute.(×¤¶Ÿ8µÌ•Ý·1

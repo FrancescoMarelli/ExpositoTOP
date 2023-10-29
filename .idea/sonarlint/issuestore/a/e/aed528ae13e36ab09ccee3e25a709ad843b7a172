@@ -5,25 +5,39 @@ D	Web:S1827"/Remove this deprecated "cellspacing" attribute.(¶è×Å
 D	Web:S1827"/Remove this deprecated "cellpadding" attribute.(¶è×Å
 MWeb:TableWithoutCaptionCheckT" Add a description to this table.(”¬…Ñûÿÿÿÿ
 ?	Web:S5256T"%Add "<th>" headers to this "<table>".(”¬…Ñûÿÿÿÿ
-C	Web:S1827W")Remove this deprecated "align" attribute.(¡³ÄÓüÿÿÿÿ
-D	Web:S1827W"*Remove this deprecated "valign" attribute.(¡³ÄÓüÿÿÿÿ
-D	Web:S1827X"*Remove this deprecated "valign" attribute.(á¸ïµÿÿÿÿÿ
-C	Web:S1827Z")Remove this deprecated "align" attribute.(Êıù›ÿÿÿÿÿ
-D	Web:S1827Z"*Remove this deprecated "valign" attribute.(Êıù›ÿÿÿÿÿ
-?	Web:S1827["*Remove this deprecated "valign" attribute.(ŞÈ¶Ç
-=	Web:S1827]")Remove this deprecated "align" attribute.(µ£®7
->	Web:S1827]"*Remove this deprecated "valign" attribute.(µ£®7
-?	Web:S1827^"*Remove this deprecated "valign" attribute.(Èóÿ
-MWeb:TableWithoutCaptionCheck`" Add a description to this table.(èÃ¨èúÿÿÿÿ
-?	Web:S5256`"%Add "<th>" headers to this "<table>".(èÃ¨èúÿÿÿÿ
-=	Web:S1827c")Remove this deprecated "align" attribute.(øÙp
->	Web:S1827c"*Remove this deprecated "valign" attribute.(øÙp
-D	Web:S1827d"*Remove this deprecated "valign" attribute.(ï‘««şÿÿÿÿ
-MWeb:TableWithoutCaptionCheckf" Add a description to this table.(èÃ¨èúÿÿÿÿ
-?	Web:S5256f"%Add "<th>" headers to this "<table>".(èÃ¨èúÿÿÿÿ
-C	Web:S1827i")Remove this deprecated "align" attribute.(Œå×¡ıÿÿÿÿ
-D	Web:S1827i"*Remove this deprecated "valign" attribute.(Œå×¡ıÿÿÿÿ
-D	Web:S1827j"*Remove this deprecated "valign" attribute.(„¨’úÿÿÿÿ
-C	Web:S1827l")Remove this deprecated "align" attribute.(İèæûÿÿÿÿ
-D	Web:S1827l"*Remove this deprecated "valign" attribute.(İèæûÿÿÿÿ
-?	Web:S1827m"*Remove this deprecated "valign" attribute.(ü‚Éì
+>	Web:S1827W")Remove this deprecated "align" attribute.(‡ œ
+?	Web:S1827W"*Remove this deprecated "valign" attribute.(‡ œ
+F	Web:S1827W"*Remove this deprecated "valign" attribute.(‡ œ8¯Ê•İ·1
+E	Web:S1827Y")Remove this deprecated "align" attribute.(½£†Ï8°Ê•İ·1
+F	Web:S1827Y"*Remove this deprecated "valign" attribute.(½£†Ï8°Ê•İ·1
+F	Web:S1827Y"*Remove this deprecated "valign" attribute.(½£†Ï8°Ê•İ·1
+J	Web:S1827[")Remove this deprecated "align" attribute.(ØÌ‘³ıÿÿÿÿ8°Ê•İ·1
+D	Web:S1827["*Remove this deprecated "valign" attribute.(ØÌ‘³ıÿÿÿÿ
+K	Web:S1827["*Remove this deprecated "valign" attribute.(ØÌ‘³ıÿÿÿÿ8°Ê•İ·1
+MWeb:TableWithoutCaptionCheck]" Add a description to this table.(èÃ¨èúÿÿÿÿ
+?	Web:S5256]"%Add "<th>" headers to this "<table>".(èÃ¨èúÿÿÿÿ
+J	Web:S1827`")Remove this deprecated "align" attribute.(ÊšŸˆÿÿÿÿÿ8°Ê•İ·1
+K	Web:S1827`"*Remove this deprecated "valign" attribute.(ÊšŸˆÿÿÿÿÿ8°Ê•İ·1
+K	Web:S1827`"*Remove this deprecated "valign" attribute.(ÊšŸˆÿÿÿÿÿ8°Ê•İ·1
+MWeb:TableWithoutCaptionCheckb" Add a description to this table.(èÃ¨èúÿÿÿÿ
+?	Web:S5256b"%Add "<th>" headers to this "<table>".(èÃ¨èúÿÿÿÿ
+J	Web:S1827e")Remove this deprecated "align" attribute.( ¬ªúüÿÿÿÿ8±Ê•İ·1
+K	Web:S1827e"*Remove this deprecated "valign" attribute.( ¬ªúüÿÿÿÿ8±Ê•İ·1
+K	Web:S1827e"*Remove this deprecated "valign" attribute.( ¬ªúüÿÿÿÿ8±Ê•İ·1
+E	Web:S1827g")Remove this deprecated "align" attribute.(§­Îú8±Ê•İ·1
+F	Web:S1827g"*Remove this deprecated "valign" attribute.(§­Îú8±Ê•İ·1
+F	Web:S1827g"*Remove this deprecated "valign" attribute.(§­Îú8±Ê•İ·1
+OWeb:TableWithoutCaptionCheckp" Add a description to this table.(æãÓ¶8±Ê•İ·1
+A	Web:S5256p"%Add "<th>" headers to this "<table>".(æãÓ¶8±Ê•İ·1
+PWeb:TableWithoutCaptionCheck" Add a description to this table.(¬ïõï8±Ê•İ·1
+B	Web:S5256"%Add "<th>" headers to this "<table>".(¬ïõï8±Ê•İ·1
+PWeb:TableWithoutCaptionCheck" Add a description to this table.(æãÓ¶8±Ê•İ·1
+B	Web:S5256"%Add "<th>" headers to this "<table>".(æãÓ¶8²Ê•İ·1
+PWeb:TableWithoutCaptionCheck±" Add a description to this table.(æãÓ¶8²Ê•İ·1
+B	Web:S5256±"%Add "<th>" headers to this "<table>".(æãÓ¶8²Ê•İ·1
+PWeb:TableWithoutCaptionCheckÃ" Add a description to this table.(æãÓ¶8²Ê•İ·1
+B	Web:S5256Ã"%Add "<th>" headers to this "<table>".(æãÓ¶8²Ê•İ·1
+PWeb:TableWithoutCaptionCheckÕ" Add a description to this table.(æãÓ¶8²Ê•İ·1
+B	Web:S5256Õ"%Add "<th>" headers to this "<table>".(æãÓ¶8²Ê•İ·1
+PWeb:TableWithoutCaptionCheckã" Add a description to this table.(æãÓ¶8²Ê•İ·1
+B	Web:S5256ã"%Add "<th>" headers to this "<table>".(æãÓ¶8²Ê•İ·1
